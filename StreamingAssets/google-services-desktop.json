@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229558886503",
+    "project_id": "merge-block-2048-ab0f5",
+    "storage_bucket": "merge-block-2048-ab0f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229558886503:android:51194deff41863ecbd74c2",
+        "android_client_info": {
+          "package_name": "com.deronics.mergeblock2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229558886503-3rhol5qipl2m75kkoft4c7t6ff96f9fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deronics.mergeblock2048",
+            "certificate_hash": "373c1e28780f2a8f95ba0234df4556890499b3a8"
+          }
+        },
+        {
+          "client_id": "229558886503-u1fn1ftkiabhrc10p0abmuefbo8fh9sp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZf3T6Vu01cE8bLV3CkEL6-uSQojE5MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229558886503-u1fn1ftkiabhrc10p0abmuefbo8fh9sp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
