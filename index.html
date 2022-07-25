@@ -152,7 +152,7 @@
 	<script>		
 		// Externs		
 		function auth() {
-		  userWithoutLogIn();
+		  gameInstance.SendMessage('YandexSDK', 'OnAuthMissed');
 		}
 		
 		function authClicked() {
